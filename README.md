@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello!
+I'm @jrmmendes (he/him). You can call me Mendes or Romildo! I'm currently using TypeScript, Node.js, GraphQL, NodeJS and deploying my applications to Microsoft Azure, Digital Ocean and AWS. 
 
-<!--
-**mendes-accenture/mendes-accenture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love sharing skills, creating educational content and writing, then if you have something that I can help, get in touch with me!
 
-Here are some ideas to get you started:
+### Things to know about me (for coworkers)
+- 📟 I love async/text based communication. You can message me any time - although maybe I'll reply latter;
+- 👋 Use the "no hello" policy: [Please Don't Say Just Hello In Chat](https://www.nohello.com/);
+- 📅 If you want me for some synchronous activity (e.g. google meet), send-me an invitation (on Google Calendar, Teams, etc);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats for nerds
+
+![Junior's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mendes-accenture&layout=compact)
+<!--![Junior's github stats](https://github-readme-stats.vercel.app/api?username=mendes-accenture&count_private=true&show_icons=true)
